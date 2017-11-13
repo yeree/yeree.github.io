@@ -1,4 +1,4 @@
-<h1 color:read>YAY<h1><br>
+<h1 style="color:red; font-size:12px;">YAY<h1><br>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yeree/yeree.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
