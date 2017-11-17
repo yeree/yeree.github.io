@@ -17,10 +17,10 @@ Syntax highlighted code block
 <h3>kevin.pire@gmail.com</h3>
 
 
-<a href="www.inbi.ai"></a>
-  
 <img src="https://www.kingsford.com/wp-content/uploads/2014/11/kfd-hoetosteak-Steak_4_0323-1024x621.jpg"/>
 
+<a href="www.inbi.ai"></a>
+  
 
 
 # Header 1 <h1 Kevin>
