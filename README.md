@@ -1,3 +1,19 @@
+
+
+
+
+<h1>Kevin</h1>
+<h2>PIRE</h2>
+<h3>kevin.pire@gmail.com</h3>
+
+
+<img src="https://www.kingsford.com/wp-content/uploads/2014/11/kfd-hoetosteak-Steak_4_0323-1024x621.jpg"/>
+
+<a href="www.inbi.ai"></a>
+  
+
+
+
 <h1 style="color:red; font-size:48px;">YAY<h1><br>
 ## Welcome to GitHub Pages
 
@@ -11,16 +27,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-<h1>Kevin</h1>
-<h2>PIRE</h2>
-<h3>kevin.pire@gmail.com</h3>
-
-
-<img src="https://www.kingsford.com/wp-content/uploads/2014/11/kfd-hoetosteak-Steak_4_0323-1024x621.jpg"/>
-
-<a href="www.inbi.ai"></a>
-  
 
 
 # Header 1 <h1 Kevin>
