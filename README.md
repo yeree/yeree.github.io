@@ -12,11 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+<h1>Kevin</h1>
+<h2>PIRE</h2>
+<h3>kevin.pire@gmail.com</h3>
+
+
+<a href="www.inbi.ai"> 
+<img src ="https://www.kingsford.com/wp-content/uploads/2014/11/kfd-hoetosteak-Steak_4_0323-1024x621.jpg"/></a>
+
+
+
+# Header 1 <h1 Kevin>
+## Header 2 <PIRE>
 ### Header 3
 
-- Bulleted
+- Bvinulleted
 - List
 
 1. Numbered
